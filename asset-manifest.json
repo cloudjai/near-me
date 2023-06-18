@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/near-me/static/js/main.7c8e88a8.js",
+    "index.html": "/near-me/index.html",
+    "main.7c8e88a8.js.map": "/near-me/static/js/main.7c8e88a8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7c8e88a8.js"
+  ]
+}
