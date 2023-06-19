@@ -1,5 +1,12 @@
-### NearMe (WIP)
+# NearMe
 
-> an app designed to ease your travel needs to find what is near "you", at any given time and place!
->
-> created with the inspiration of javascript mastery's api course.
+> an app to simplify your travel needs, assisting to find all hotels, restaurants, and attractions "near you"! 
+
+## table of contents:
+- general information
+- screenshots
+- technologies
+- setup
+- features (current & future)
+- inspiration
+  
