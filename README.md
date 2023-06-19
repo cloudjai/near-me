@@ -4,7 +4,7 @@
 
 ## table of contents:
 - general information
-- screenshots
+- [screenshots](https://imgur.com/a/z0fOz0D)
 - technologies
 - setup
 - features (current & future)
